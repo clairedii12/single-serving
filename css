@@ -1,14 +1,29 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Creepster|Faster+One|Monoton|Raleway|Russo+One');
+@import url('https://fonts.googleapis.com/css?family=Anton|Creepster|Faster+One|Monoton|Raleway|Rubik|Russo+One');
 
 body {
 max-width: 800px;
 margin-right: auto;
 margin-left: auto;
-background-image: ;
+background-image: https://github.com/clairedii12/single-serving/blob/master/maccheese.jpg?raw=true ;
 }
 
 .title {
 font-size: 100px;
 font-family: creepster;
+text-align: Center;
+
+}
+
+.history {
+font-size: 20px;
+text-align: left;
+font-family: Rubik ;
+padding-top: 50px;
+}
+
+.funfacts {
+font-size: 20px;
+font-family: Rubik;
+padding-top: 50px;
 
 }
