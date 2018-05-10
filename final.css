@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Creepster|Faster+One|Monoton|Raleway|Rubik|Russo+One');
+
+body {
+max-width: 800px;
+margin-right: auto;
+margin-left: auto;
+background-color:/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#aebcbf+0,0a0e0a+0,0a0e0a+41,6e7774+100,0a0809+100 */
+background: rgb(174,188,191); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(174,188,191,1) 0%, rgba(10,14,10,1) 0%, rgba(10,14,10,1) 41%, rgba(110,119,116,1) 100%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(174,188,191,1) 0%,rgba(10,14,10,1) 0%,rgba(10,14,10,1) 41%,rgba(110,119,116,1) 100%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(174,188,191,1) 0%,rgba(10,14,10,1) 0%,rgba(10,14,10,1) 41%,rgba(110,119,116,1) 100%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+}
+
+
+.title {
+font-size: 100px;
+font-family: creepster;
+color: Yellow;
+text-align: center;
+border-style: dotted;
+border-color: Orange;
+border-width: 20px;
+text-shadow: 2px 4px 10px orange;
+}
+
+.history {
+font-size: 20px;
+text-align: left;
+font-family: Rubik ;
+padding-top: 20px;
+max-width: 400px;
+color: darkorange;
+}
+
+.history2 {
+font-size: 20px;
+text-align: right;
+font-family: Rubik ;
+padding-top: 20px;
+max-width: 400px;
+color: darkorange;
+}
+.title2 {
+font-size: 50px;
+font-family: creepster;
+text-align: left;
+padding-top: 50px;
+color: rgb(255, 69, 0);
+
+}
+.funfacts {
+font-size: 20px;
+font-family: Rubik;
+padding-top: 20px;
+text-align: left;
+Max-width: 300px;
+color: rgb(255, 69, 0);
+
+}
+
+.topfive {
+font-size: 20px;
+font-family: Rubik;
+padding-top: 60px;
+color: yellow;
+}
+
+.list {
+font-size: 20px;
+font-family: rubik;
+padding-top: 80px;
+color: yellow;
+}
+@media only screen and (max-width: 600px) {
+body{ 
+    background-color: black;
+    max-width: 800px;}
+.title{
+font-size: 20px;}
+.history{
+font-size: 10px;
+text-align: center;}
+.history2 {
+Font-size: 10px;}
+.title2{
+Font-size: 20px;
+text-align: center;}
+.funfacts{
+font-size; 20px;
+text-align: center;}
+}
